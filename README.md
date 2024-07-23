@@ -1,1 +1,3 @@
 # Lime_Interpretability
+
+Understanding how deep learning models, such as the Swin Transformer, classify objects is crucial for improving their performance and trustworthiness. This study leverages LIME (Local Interpretable Model-agnostic Explanations) to shed light on the decision-making process of Swin Transformer models. By applying LIME, we aim to identify the important features that influence the model's classifications and gain insights into its internal workings. This interpretability analysis not only helps in debugging and refining the model but also enhances transparency, making it easier to trust and adopt these advanced models in real-world applications.
